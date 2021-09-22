@@ -1,11 +1,11 @@
 [
   {
     "codigo": "0",
-    "descripcion": "DOC.TRIB.NO.DOM.SIN.RUC"
+    "descripcion": "SIN DOC."
   },
   {
     "codigo": "1",
-    "descripcion": "Documento Nacional de Identidad"
+    "descripcion": "DNI"
   },
   {
     "codigo": "4",
@@ -13,7 +13,7 @@
   },
   {
     "codigo": "6",
-    "descripcion": "Registro Unico de Contributentes"
+    "descripcion": "RUC"
   },
   {
     "codigo": "7",

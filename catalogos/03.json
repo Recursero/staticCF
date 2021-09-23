@@ -1,5 +1,13 @@
 [
   {
+    "codigo": "NIU",
+    "descripcion": "UNIDAD (BIENES)"
+  },
+  {
+    "codigo": "ZZ",
+    "descripcion": "UNIDAD (SERVICIOS)"
+  },
+  {
     "codigo": "BJ",
     "descripcion": "BALDE"
   },
@@ -226,14 +234,6 @@
   {
     "codigo": "TU",
     "descripcion": "TUBOS"
-  },
-  {
-    "codigo": "NIU",
-    "descripcion": "UNIDAD (BIENES)"
-  },
-  {
-    "codigo": "ZZ",
-    "descripcion": "UNIDAD (SERVICIOS) "
   },
   {
     "codigo": "GLL",

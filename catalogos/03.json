@@ -1,11 +1,11 @@
 [
   {
     "codigo": "NIU",
-    "descripcion": "UNIDAD (BIENES)"
+    "descripcion": "UNIDAD"
   },
   {
     "codigo": "ZZ",
-    "descripcion": "UNIDAD (SERVICIOS)"
+    "descripcion": "SERVICIO"
   },
   {
     "codigo": "BJ",

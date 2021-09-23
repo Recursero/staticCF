@@ -6,32 +6,32 @@
   },
   {
     "codigo": "11",
-    "descripcion": "Gravado – Retiro por premio",
+    "descripcion": "Gravado - Retiro por premio",
     "codigo_de_tributo": "9996"
   },
   {
     "codigo": "12",
-    "descripcion": "Gravado – Retiro por donación",
+    "descripcion": "Gravado - Retiro por donación",
     "codigo_de_tributo": "9996"
   },
   {
     "codigo": "13",
-    "descripcion": "Gravado – Retiro ",
+    "descripcion": "Gravado - Retiro ",
     "codigo_de_tributo": "9996"
   },
   {
     "codigo": "14",
-    "descripcion": "Gravado – Retiro por publicidad",
+    "descripcion": "Gravado - Retiro por publicidad",
     "codigo_de_tributo": "9996"
   },
   {
     "codigo": "15",
-    "descripcion": "Gravado – Bonificaciones",
+    "descripcion": "Gravado - Bonificaciones",
     "codigo_de_tributo": "9996"
   },
   {
     "codigo": "16",
-    "descripcion": "Gravado – Retiro por entrega a trabajadores",
+    "descripcion": "Gravado - Retiro por entrega a trabajadores",
     "codigo_de_tributo": "9996"
   },
   {
@@ -56,17 +56,17 @@
   },
   {
     "codigo": "31",
-    "descripcion": "Inafecto – Retiro por Bonificación",
+    "descripcion": "Inafecto - Retiro por Bonificación",
     "codigo_de_tributo": "9996"
   },
   {
     "codigo": "32",
-    "descripcion": "Inafecto – Retiro",
+    "descripcion": "Inafecto - Retiro",
     "codigo_de_tributo": "9996"
   },
   {
     "codigo": "33",
-    "descripcion": "Inafecto – Retiro por Muestras Médicas",
+    "descripcion": "Inafecto - Retiro por Muestras Médicas",
     "codigo_de_tributo": "9996"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "codigo": "35",
-    "descripcion": "Inafecto – Retiro por premio",
+    "descripcion": "Inafecto - Retiro por premio",
     "codigo_de_tributo": "9996"
   },
   {

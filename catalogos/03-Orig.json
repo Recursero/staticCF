@@ -4,74 +4,8 @@
     "descripcion": "UNIDAD"
   },
   {
-    "codigo": "PR",
-    "descripcion": "PAR"
-  },
-  {
-    "codigo": "DZN",
-    "descripcion": "DOCENA"
-  },
-  {
-    "codigo": "CEN",
-    "descripcion": "CIENTO DE UNIDADES"
-  },
-  {
-    "codigo": "MLL",
-    "descripcion": "MILLAR"
-  },
-  {
-    "codigo": "MU",
-    "descripcion": "MILLON DE UNIDADES"
-  },
-
-  {
-    "codigo": "BG",
-    "descripcion": "BOLSA"
-  },
-  {
-    "codigo": "PK",
-    "descripcion": "PAQUETE"
-  },
-  {
-    "codigo": "BX",
-    "descripcion": "CAJAS"
-  },
-  {
-    "codigo": "C62",
-    "descripcion": "PZA"
-  },
-  {
-    "codigo": "C62",
-    "descripcion": "PIEZAS"
-  },
-  {
-    "codigo": "SET",
-    "descripcion": "JUEGO"
-  },
-  {
-    "codigo": "SET",
-    "descripcion": "JUEGOS"
-  },
-  {
-    "codigo": "KT",
-    "descripcion": "KIT"
-  },
-
-  {
-    "codigo": "LTR",
-    "descripcion": "LITRO"
-  },
-  {
-    "codigo": "LTR",
-    "descripcion": "LITROS"
-  },
-  {
-    "codigo": "GLL",
-    "descripcion": "GALÓN"
-  },
-  {
-    "codigo": "GLL",
-    "descripcion": "GALONES"
+    "codigo": "ZZ",
+    "descripcion": "SERVICIO"
   },
   {
     "codigo": "BJ",
@@ -81,44 +15,42 @@
     "codigo": "BLL",
     "descripcion": "BARRILES"
   },
-
-  {
-    "codigo": "MTR",
-    "descripcion": "METRO"
-  },
-  {
-    "codigo": "MTR",
-    "descripcion": "METROS"
-  },
-  {
-    "codigo": "RO",
-    "descripcion": "ROLLO"
-  },
-  {
-    "codigo": "RO",
-    "descripcion": "ROLLOS"
-  },
-
   {
     "codigo": "4A",
     "descripcion": "BOBINAS"
   },
-
+  {
+    "codigo": "BG",
+    "descripcion": "BOLSA"
+  },
   {
     "codigo": "BO",
     "descripcion": "BOTELLAS"
   },
-
+  {
+    "codigo": "BX",
+    "descripcion": "CAJAS"
+  },
   {
     "codigo": "CT",
     "descripcion": "CARTONES"
   },
-
+  {
+    "codigo": "CMK",
+    "descripcion": "CENTIMETRO CUADRADO"
+  },
+  {
+    "codigo": "CMQ",
+    "descripcion": "CENTIMETRO CUBICO"
+  },
   {
     "codigo": "CMT",
     "descripcion": "CENTIMETRO LINEAL"
   },
-
+  {
+    "codigo": "CEN",
+    "descripcion": "CIENTO DE UNIDADES"
+  },
   {
     "codigo": "CY",
     "descripcion": "CILINDRO"
@@ -127,12 +59,22 @@
     "codigo": "CJ",
     "descripcion": "CONOS"
   },
-
+  {
+    "codigo": "DZN",
+    "descripcion": "DOCENA"
+  },
+  {
+    "codigo": "DZP",
+    "descripcion": "DOCENA POR 10**6"
+  },
   {
     "codigo": "BE",
     "descripcion": "FARDO"
   },
-
+  {
+    "codigo": "GLI",
+    "descripcion": "GALON INGLES (4,545956L)"
+  },
   {
     "codigo": "GRM",
     "descripcion": "GRAMO"
@@ -149,7 +91,10 @@
     "codigo": "LEF",
     "descripcion": "HOJA"
   },
-
+  {
+    "codigo": "SET",
+    "descripcion": "JUEGO"
+  },
   {
     "codigo": "KGM",
     "descripcion": "KILOGRAMO"
@@ -158,7 +103,14 @@
     "codigo": "KTM",
     "descripcion": "KILOMETRO"
   },
-
+  {
+    "codigo": "KWH",
+    "descripcion": "KILOVATIO HORA"
+  },
+  {
+    "codigo": "KT",
+    "descripcion": "KIT"
+  },
   {
     "codigo": "CA",
     "descripcion": "LATAS"
@@ -167,7 +119,18 @@
     "codigo": "LBR",
     "descripcion": "LIBRAS"
   },
-
+  {
+    "codigo": "LTR",
+    "descripcion": "LITROS"
+  },
+  {
+    "codigo": "MWH",
+    "descripcion": "MEGAWHAT HORA"
+  },
+  {
+    "codigo": "MTR",
+    "descripcion": "METRO"
+  },
   {
     "codigo": "MTK",
     "descripcion": "METRO CUADRADO"
@@ -196,7 +159,14 @@
     "codigo": "MMQ",
     "descripcion": "MILIMETRO CUBICO"
   },
-
+  {
+    "codigo": "MLL",
+    "descripcion": "MILLARES"
+  },
+  {
+    "codigo": "MU",
+    "descripcion": "MILLON DE UNIDADES"
+  },
   {
     "codigo": "ONZ",
     "descripcion": "ONZAS"
@@ -205,7 +175,14 @@
     "codigo": "PF",
     "descripcion": "PALETAS"
   },
-
+  {
+    "codigo": "PK",
+    "descripcion": "PAQUETE"
+  },
+  {
+    "codigo": "PR",
+    "descripcion": "PAR"
+  },
   {
     "codigo": "FOT",
     "descripcion": "PIES"
@@ -218,7 +195,10 @@
     "codigo": "FTQ",
     "descripcion": "PIES CUBICOS"
   },
-
+  {
+    "codigo": "C62",
+    "descripcion": "PIEZAS"
+  },
   {
     "codigo": "PG",
     "descripcion": "PLACAS"
@@ -240,6 +220,14 @@
     "descripcion": "TAMBOR"
   },
   {
+    "codigo": "STN",
+    "descripcion": "TONELADA CORTA"
+  },
+  {
+    "codigo": "LTN",
+    "descripcion": "TONELADA LARGA"
+  },
+  {
     "codigo": "TNE",
     "descripcion": "TONELADAS"
   },
@@ -247,9 +235,16 @@
     "codigo": "TU",
     "descripcion": "TUBOS"
   },
-
   {
-    "codigo": "ZZ",
-    "descripcion": "SERVICIO"
+    "codigo": "GLL",
+    "descripcion": "US GALON (3,7843 L)"
+  },
+  {
+    "codigo": "YRD",
+    "descripcion": "YARDA"
+  },
+  {
+    "codigo": "YDK",
+    "descripcion": "YARDA CUADRADA"
   }
 ]

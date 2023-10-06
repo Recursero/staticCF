@@ -16,14 +16,13 @@
     "descripcion": "CIENTO DE UNIDADES"
   },
   {
-    "codigo": "MLL",
+    "codigo": "MIL",
     "descripcion": "MILLAR"
   },
   {
-    "codigo": "MU",
+    "codigo": "UM",
     "descripcion": "MILLON DE UNIDADES"
   },
-
   {
     "codigo": "BG",
     "descripcion": "BOLSA"
@@ -56,7 +55,6 @@
     "codigo": "KT",
     "descripcion": "KIT"
   },
-
   {
     "codigo": "LTR",
     "descripcion": "LITRO"
